@@ -1,0 +1,1 @@
+var camelCase = 10;
